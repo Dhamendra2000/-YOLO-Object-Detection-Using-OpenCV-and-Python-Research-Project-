@@ -31,22 +31,22 @@ A real-time object detection system with **Dynamic Region of Interest (ROI)** lo
 
 # Features:-
 
-- ✅ Real-time object detection using YOLOv8.
-- ✅ Dynamic ROI that adjusts based on object positions.
-- ✅ Evaluation metrics: Precision, Recall, F1 Score, Accuracy.
-- ✅ Frame saving option for research visuals.
-- ✅ Visualization of detections and ROI on video frames.
+-  Real-time object detection using YOLOv8.
+- Dynamic ROI that adjusts based on object positions.
+- Evaluation metrics: Precision, Recall, F1 Score, Accuracy.
+- Frame saving option for research visuals.
+- Visualization of detections and ROI on video frames.
 
 ---
 
 # Project Structure :-
 
 ```plaintext
-📦 project-folder/
+# project-folder/
 │
-├── 🔍 main.py                # Main detection + evaluation script
-├── 📹 sample_video.mp4       # Input video file
-├── 🧠 yolov8n.pt              # YOLOv8 model (update path if needed)
-├── 📁 output_frames/         # (Optional) Saved annotated frames
-├── 📄 README.md              # Project documentation
+├──  main.py                # Main detection + evaluation script
+├──  sample_video.mp4       # Input video file
+├──  yolov8n.pt              # YOLOv8 model (update path if needed)
+├──  output_frames/         # (Optional) Saved annotated frames
+├──  README.md              # Project documentation
 

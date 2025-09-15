@@ -3,13 +3,13 @@
 #this is the small segement of that project and which has been done by me 
 
 
-# 🔍 Blind-Aware Dynamic ROI Object Detection using YOLOv8
+# Blind-Aware Dynamic ROI Object Detection using YOLOv8:-
 
 A real-time object detection system with **Dynamic Region of Interest (ROI)** logic using **YOLOv8**, designed to simulate smart navigation systems — such as assistive technology for the visually impaired.
 
 ---
 
-## 🎯 Objective
+# Objective:-
 
 - Perform object detection on video streams using YOLOv8.
 - Define and dynamically shift an ROI (Region of Interest) to simulate smart navigation.
@@ -18,7 +18,7 @@ A real-time object detection system with **Dynamic Region of Interest (ROI)** lo
 
 ---
 
-## 🛠️ Technologies Used
+#Technologies Used:-
 
 | Tool / Library     | Purpose                         |
 |--------------------|----------------------------------|
@@ -29,7 +29,7 @@ A real-time object detection system with **Dynamic Region of Interest (ROI)** lo
 
 ---
 
-## 🚀 Features
+# Features:-
 
 - ✅ Real-time object detection using YOLOv8.
 - ✅ Dynamic ROI that adjusts based on object positions.
@@ -39,7 +39,7 @@ A real-time object detection system with **Dynamic Region of Interest (ROI)** lo
 
 ---
 
-## 📂 Project Structure
+# Project Structure :-
 
 ```plaintext
 📦 project-folder/
